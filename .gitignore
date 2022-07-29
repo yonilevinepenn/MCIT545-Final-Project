@@ -132,3 +132,6 @@ dmypy.json
 final_project_venv/*
 chromedriver
 scraped_files/*
+depression_features.csv
+depression_features_pos.csv
+
